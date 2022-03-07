@@ -6,6 +6,6 @@ the restrictions that no two adjacent squares contain consecutive integers.
 By adjacent we mean vertically, horizontally, or diagonally.
 
 Sample output:
-...3..5... 
-7..1..8..2
-...4..6...
+...3..5... <br>
+7..1..8..2 <br>
+...4..6... <br>
