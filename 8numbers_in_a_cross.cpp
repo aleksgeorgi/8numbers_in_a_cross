@@ -1,9 +1,3 @@
-/*
-Question:
-    https://venus.cs.qc.cuny.edu/~waxman/211/eight%20numbers%20in%20a%20cross%20problem.pdf
-References:
-    https://repl.it/@CerverizzoE/EightNumbersInACross-Iterative-complete-forStudentUse
-*/
 #include <iostream>
 using namespace std;
 
